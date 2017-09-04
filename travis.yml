@@ -1,9 +1,0 @@
-language: php
-php:
-  - '7.1'
-  - nightly
-before_script:
-  - pear install PHP_CodeSniffer
-  - phpenv rehash
-script:
-  - phpcs --standard=psr2 .
