@@ -1,0 +1,10 @@
+language: php
+php:
+  - '7.1'
+  - nightly
+before_script:
+  - phpenv config-rm xdebug.ini
+  - pyrus install pear/PHP_CodeSniffer
+  - phpenv rehash
+script:
+  - phpcs --standard=psr2 .
