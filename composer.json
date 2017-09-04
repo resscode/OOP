@@ -12,10 +12,13 @@
       "name": "Anton Dovgobrod",
       "email": "antondovgobrod@gmail.com"
     }
-  ],
+  ],  
   "require-dev": {
     "phpunit/phpunit": "6.3.*",
     "phpmd/phpmd": "*"
+  },
+  "require": {
+    "php": "7.1"
   },
   "autoload": {
     "psr-4": {
