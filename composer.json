@@ -13,6 +13,10 @@
       "email": "antondovgobrod@gmail.com"
     }
   ],
+  "require-dev": {
+    "phpunit/phpunit": "6.3.*",
+    "phpmd/phpmd": "*"
+  },
   "autoload": {
     "psr-4": {
       "Solid\\": "SOLID/",
