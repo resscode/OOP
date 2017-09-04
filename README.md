@@ -1,7 +1,7 @@
 # OOP
 Repository for training OOP
 
-##Current Iteration
+## Current Iteration
 Below you can find all info regarding current iteration
 
 <b>Principle:</b> Single Responsibility
@@ -18,7 +18,7 @@ Link: ?
 
 ## Training Steps
 1. Implementation Part ( create Your implementation of chosen in 
-[Current Iteration](#Current Iteration) principle or pattern) 
+[Current Iteration][Current Iteration] principle or pattern) 
 2. Before Pull Request End Date, create Pull Request with your example of the best example of that principle or pattern.
 3. Comment others Pull Requests Before Comment End Date
 4. Participate in Solutions Meeting, check Solutions Meeting link
@@ -33,4 +33,4 @@ Link: ?
 4. Create as many files as you think should solve the task - implement pattern or principle.
 5. Make Pull Request with this repository
 
-##Iterations Log
+## Iterations Log
