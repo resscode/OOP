@@ -32,6 +32,6 @@ class Person implements DrinkerInterface
 
     private function makeReminder(string $reminder)
     {
-        $memories[] = $reminder;
+        $this->memories[] = $reminder;
     }
 }
