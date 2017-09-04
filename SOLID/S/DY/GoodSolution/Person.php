@@ -8,6 +8,7 @@ use Solid\S\DY\GoodSolution\Interfaces\StorageInterface;
 class Person implements DrinkerInterface
 {
     private $name;
+    private $memories;
 
     /**
      * Person constructor.
@@ -16,6 +17,7 @@ class Person implements DrinkerInterface
     public function __construct(string $name)
     {
         $this->name = $name;
+        $this->memories = [];
     }
 
     /**
@@ -24,6 +26,12 @@ class Person implements DrinkerInterface
     public function makeSipFrom(StorageInterface $storage): string
     {
         $storageName = $storage->getName();
+        $this->makeReminder("Stop slurping, $this->name");
         return "$this->name made a slurping sound from $storageName";
+    }
+
+    private function makeReminder(string $reminder)
+    {
+        $memories[] = $reminder;
     }
 }
