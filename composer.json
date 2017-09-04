@@ -1,0 +1,21 @@
+{
+  "name": "OOP",
+  "description": "Composer for OOP practicum",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Dmitry Yurov",
+      "email": "aliersis@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Solid\\": "SOLID/",
+      "Patterns\\": "PATTERNS/"
+    }
+  }
+}
