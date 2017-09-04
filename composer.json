@@ -7,9 +7,12 @@
     {
       "name": "Dmitry Yurov",
       "email": "aliersis@gmail.com"
+    },
+    {
+      "name": "Anton Dovgobrod",
+      "email": "antondovgobrod@gmail.com"
     }
   ],
-
   "autoload": {
     "psr-4": {
       "Solid\\": "SOLID/",
