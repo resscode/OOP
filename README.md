@@ -18,7 +18,7 @@ Link: ?
 
 ## Training Steps
 1. Implementation Part ( create Your implementation of chosen in 
-[Current Iteration](/#current-iteration) principle or pattern) 
+[Current Iteration](/README.md#current-iteration) principle or pattern) 
 2. Before Pull Request End Date, create Pull Request with your example of the best example of that principle or pattern.
 3. Comment others Pull Requests Before Comment End Date
 4. Participate in Solutions Meeting, check Solutions Meeting link
