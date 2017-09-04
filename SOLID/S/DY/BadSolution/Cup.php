@@ -2,7 +2,6 @@
 
 namespace Solid\S\DY\BadSolution;
 
-
 class Cup
 {
     private $storage;
