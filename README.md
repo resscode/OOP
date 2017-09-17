@@ -4,17 +4,17 @@ Repository for training OOP
 ## Current Iteration
 Below you can find all info regarding current iteration
 
-<b>Principle:</b> Single Responsibility
+<b>Principle:</b> Open/closed principle
 
-<b>Pull Request End Date:</b> 09/08/2017
+<b>Pull Request End Date:</b> 09/20/2017
 
-<b>Comment End Date:</b> 09/13/2017
+<b>Comment End Date:</b> 09/22/2017
 
 <b>Solutions Meeting:</b>
 
-Date Time: 09/17/2017 21:40
+Date Time: 09/22/2017 21:40
 
-Link: https://hangouts.google.com/hangouts/_/fn2xi5qywrgohh6ylvez3qth4ye
+Link: 
 
 ## Training Steps
 1. Implementation Part ( create Your implementation of chosen in 
@@ -34,6 +34,15 @@ Link: https://hangouts.google.com/hangouts/_/fn2xi5qywrgohh6ylvez3qth4ye
 5. Make Pull Request with this repository
 
 ## Iterations Log
+### S (Single Responsibility)
+
+<b>Pull Request End Date:</b> 09/08/2017
+
+<b>Comment End Date:</b> 09/13/2017
+
+<b>Solutions Meeting:</b>
+
+Date Time: 09/17/2017 21:40
 
 ## Project Health
 [![Build Status](https://travis-ci.org/resscode/OOP.svg?branch=master)](https://travis-ci.org/resscode/OOP)
