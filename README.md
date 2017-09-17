@@ -12,9 +12,9 @@ Below you can find all info regarding current iteration
 
 <b>Solutions Meeting:</b>
 
-Date Time: 09/13/2017 ??:??
+Date Time: 09/17/2017 21:40
 
-Link: ?
+Link: https://hangouts.google.com/hangouts/_/fn2xi5qywrgohh6ylvez3qth4ye
 
 ## Training Steps
 1. Implementation Part ( create Your implementation of chosen in 
